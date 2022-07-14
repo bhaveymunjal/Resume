@@ -1,0 +1,113 @@
+{
+    "basics": {
+        "name": "Bhavey",
+        "label": "Student",
+        "picture": "",
+        "email": "2021kucp1031@iiitkota.ac.in",
+        "phone": "+919813966626",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), pursuing my B.tech in Computer Science & Engineering. ",
+        "location": {
+            "address": "Sirsa",
+            "postalCode": "125055",
+            "city": "Sirsa",
+            "countryCode": " India",
+            "region": "Haryana"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "bhavey_munjal",
+                "url": "https://twitter.com/bhavey_munjal"
+            },
+            {
+                "network": "Github",
+                "username": "bhaveymunjal",
+                "url": "https://github.com/bhaveymunjal"
+            },
+            {
+                "network": "linkedin",
+                "username": "bhaveymunjal",
+                "url": "https://www.linkedin.com/in/bhaveymunjal/"
+            },
+            {
+                "network": "Instagram",
+                "username": "bhavey_munjal",
+                "url": "https://www.instagram.com/bhavey_munjal/"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "8.3",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    
+    "skills": [
+        {
+            "name": "Front End Web Development",
+            "level": "Intermediate",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+        },
+        { 
+        "name": "Programming",
+            "level": "Intermediate",
+            "keywords": [
+                "C/C++",
+                "Data Structures and Algorithms",
+                "Competitive Programming",
+                "Matlab"
+            ]
+        },
+        { 
+        "name": "Photo/Video Editing",
+            "level": "Intermediate",
+            "keywords": [
+                "Adobe Photoshop",
+                "Adobe Premeire Pro"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Hindi",
+            "fluency": "Native speaker"
+        },
+        {
+            "language": "Punjabi",
+            "fluency": "Native speaker"
+        }
+
+    ],
+    "interests": [
+        {
+            "name": "Reading",
+            "keywords": [
+                "Novels"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Cricket",
+                "Volleyball"
+            ]
+        }
+    ]
+}
